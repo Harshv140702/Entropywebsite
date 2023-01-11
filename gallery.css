@@ -407,3 +407,9 @@ svg {
         width: 15rem;
     }
   }
+
+  @media(max-width: 70rem){
+    .footer ul {
+      display: block;
+  }
+  }

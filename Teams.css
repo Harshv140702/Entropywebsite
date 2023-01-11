@@ -590,3 +590,9 @@ h1,h2{
     width:19em;
   } */
 }
+
+@media(max-width: 70rem){
+  .footer ul {
+    display: block;
+}
+}
