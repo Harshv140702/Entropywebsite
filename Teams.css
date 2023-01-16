@@ -527,6 +527,10 @@ svg {
   background-image: url("./Team/Pandey.jpg");
   background-size: cover;
 }
+.Aaryan{
+  background-image: url("./Team/Aaryan.jpg");
+  background-size: cover;
+}
 .content {
   position: relative;
   display: flex;
