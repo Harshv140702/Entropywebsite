@@ -2,7 +2,7 @@
 
 body {
   font-family: "Lato";
-  background-image: url('https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/BH_AccretionDisk_Sim_360_Wide_16x9.gif');
+  background-image: url('https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/BH_AccretionDisk_Sim_360_Wide_16x9.gif'); /* Credit: NASA’s Goddard Space Flight Center/Jeremy Schnittman */
   background-size:100%;
   background-repeat: repeat-y;  
   background-attachment: fixed;
