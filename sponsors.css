@@ -363,13 +363,14 @@ img {
   
   .grid-container{
       display: grid;
-      grid-template-columns: auto auto auto;
-      padding: 1em;
+      /* grid-template-columns: auto auto auto; */
+      grid-template-columns: auto ;
+      /* padding: 5em; */
       margin: 0.8em 10em 6em 10em;
     }
     
     .grid-item>img{
-        width: 100%;
+        width: 20%;
     }
     
     .grid-item{
@@ -437,7 +438,7 @@ img {
     @media only screen and (max-width: 1200px) {
         .grid-container{
             display: grid;
-            grid-template-columns: auto auto;
+            grid-template-columns: auto ;
             padding: 1em;
             margin: 0.8em 10em 6em 10em;
       }
